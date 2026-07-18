@@ -14,8 +14,7 @@ store can understand their customers and grow more sales in 2027 & 2028.
 - Which channel is contributing maximum to the sales.
 - Highest selling category?
 - Percentage of Total Orders delivered.
-
-##Process
+## Process
 - Verify data for any Missing Values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created Pivot tables according to the questions asked.
